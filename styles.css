@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 123, 0);
+    font: 400;
+}
+h2{color:black
+}
+li{color: green;
+}    
+img{
+    width: 300px;
+
+}
+h1{font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 2px solid green; 
+    width:400px;
+color: green;
+}
+.boxmodel{
+    border:5px solid red;
+    display:inline-block;
+    padding:5px;
+    margin:0px;
+}
